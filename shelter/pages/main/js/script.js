@@ -82,8 +82,6 @@ window.addEventListener('resize', () => {
   }
 })
 
-let
-
 
 fetch('./js/pets.json').then(res => res.json()).then(json => {
   const petCardTemplate = document.querySelector('#petCard').content
