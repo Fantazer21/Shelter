@@ -73,5 +73,3 @@ pets.map(el => el.age.includes('0 years') ? el.age = el.age.slice(7) : el.age = 
 let petsJSON = JSON.stringify(pets)
 
 
-
-console.log(petsJSON)
