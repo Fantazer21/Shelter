@@ -1,8 +1,6 @@
 ## Task 4. Shelter для [RS School](https://rs.school/)
 
-![](https://github.com/mauta/shelter/blob/shelterProduct/shelter.png)
-
-[Result](https://fantazer21.github.io/shelter/shelter/pages/main/index.html) - генерируются случайные животные не по макету\
+[Result](https://fantazer21.github.io/Shelter/) - 
 
 
 Сверстать страницу согласно макету [Figma](https://www.figma.com/file/tKcmzkARtMUFQAR9VLdLkl/shelter-dom) 
