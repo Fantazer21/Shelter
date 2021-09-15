@@ -228,7 +228,7 @@
   "parasites": "lice",
   "age": " 10 months",
   "type": "Cat",
-  "img": "../../assets/images/maine_4.jpg"
+  "img": "./shelter/assets/images/maine_4.jpg"
 }, {
   "id": "pet_22",
   "name": "Toby ",
@@ -239,7 +239,7 @@
   "parasites": "lice",
   "age": "3 years 2 months",
   "type": "Cat",
-  "img": "../../assets/images/british_6.jpg"
+  "img": "./shelter/assets/images/british_6.jpg"
 }, {
   "id": "pet_23",
   "name": "Belle ",
@@ -250,7 +250,7 @@
   "parasites": "none",
   "age": "3 years 10 months",
   "type": "Dog",
-  "img": "../../assets/images/labrador_6.jpg"
+  "img": "./shelter/assets/images/labrador_6.jpg"
 }, {
   "id": "pet_24",
   "name": "Piper ",
@@ -261,7 +261,7 @@
   "parasites": "none",
   "age": "2 years 3 months",
   "type": "Cat",
-  "img": "../../assets/images/maine_3.jpg"
+  "img": "./shelter/assets/images/maine_3.jpg"
 }, {
   "id": "pet_25",
   "name": "Bandit ",
@@ -272,7 +272,7 @@
   "parasites": "fleas",
   "age": " 10 months",
   "type": "Dog",
-  "img": "../../assets/images/labrador_4.jpg"
+  "img": "./shelter/assets/images/labrador_4.jpg"
 }, {
   "id": "pet_26",
   "name": "Sophie ",
@@ -283,7 +283,7 @@
   "parasites": "none",
   "age": "4 years 4 months",
   "type": "Dog",
-  "img": "../../assets/images/jack_3.jpg"
+  "img": "./shelter/assets/images/jack_3.jpg"
 }, {
   "id": "pet_27",
   "name": "Bella",
@@ -294,7 +294,7 @@
   "parasites": "none",
   "age": "4 years 4 months",
   "type": "Cat",
-  "img": "../../assets/images/maine_4.jpg"
+  "img": "./shelter/assets/images/maine_4.jpg"
 }, {
   "id": "pet_28",
   "name": "Lola ",
@@ -305,7 +305,7 @@
   "parasites": "lice",
   "age": " 9 months",
   "type": "Cat",
-  "img": "../../assets/images/maine_2.jpg"
+  "img": "./shelter/assets/images/maine_2.jpg"
 }, {
   "id": "pet_29",
   "name": "Lulu ",
@@ -316,7 +316,7 @@
   "parasites": "none",
   "age": "1 years 6 months",
   "type": "Dog",
-  "img": "../../assets/images/labrador_6.jpg"
+  "img": "./shelter/assets/images/labrador_6.jpg"
 }, {
   "id": "pet_30",
   "name": "Jasper ",
@@ -327,7 +327,7 @@
   "parasites": "lice",
   "age": " 3 months",
   "type": "Cat",
-  "img": "../../assets/images/british_3.jpg"
+  "img": "./shelter/assets/images/british_3.jpg"
 }, {
   "id": "pet_31",
   "name": "Spike ",
@@ -338,7 +338,7 @@
   "parasites": "fleas",
   "age": "4 months",
   "type": "Dog",
-  "img": "../../assets/images/labrador_3.jpg"
+  "img": "./shelter/assets/images/labrador_3.jpg"
 }, {
   "id": "pet_32",
   "name": "Dixie ",
@@ -349,7 +349,7 @@
   "parasites": "none",
   "age": "3 years 7 months",
   "type": "Cat",
-  "img": "../../assets/images/british_5.jpg"
+  "img": "./shelter/assets/images/british_5.jpg"
 }, {
   "id": "pet_33",
   "name": "Dakota ",
@@ -360,7 +360,7 @@
   "parasites": "fleas",
   "age": " 8 months",
   "type": "Cat",
-  "img": "../../assets/images/maine_1.jpg"
+  "img": "./shelter/assets/images/maine_1.jpg"
 }, {
   "id": "pet_34",
   "name": "Coco ",
@@ -371,7 +371,7 @@
   "parasites": "none",
   "age": "2 years 5 months",
   "type": "Dog",
-  "img": "../../assets/images/labrador_1.jpg"
+  "img": "./shelter/assets/images/labrador_1.jpg"
 }, {
   "id": "pet_35",
   "name": "Maggie ",
@@ -382,7 +382,7 @@
   "parasites": "none",
   "age": "1 years 10 months",
   "type": "Dog",
-  "img": "../../assets/images/jack_2.jpg"
+  "img": "./shelter/assets/images/jack_2.jpg"
 }, {
   "id": "pet_36",
   "name": "Buddy",
@@ -393,7 +393,7 @@
   "parasites": "none",
   "age": "2 years 5 months",
   "type": "Dog",
-  "img": "../../assets/images/jack_2.jpg"
+  "img": "./shelter/assets/images/jack_2.jpg"
 }, {
   "id": "pet_37",
   "name": "Sunshine ",
@@ -404,7 +404,7 @@
   "parasites": "none",
   "age": "3 years 2 months",
   "type": "Dog",
-  "img": "../../assets/images/doberman_2.jpg"
+  "img": "./shelter/assets/images/doberman_2.jpg"
 }, {
   "id": "pet_38",
   "name": "Angel",
@@ -415,7 +415,7 @@
   "parasites": "none",
   "age": "2 years 8 months",
   "type": "Dog",
-  "img": "../../assets/images/jack_6.jpg"
+  "img": "./shelter/assets/images/jack_6.jpg"
 }, {
   "id": "pet_39",
   "name": "Thor ",
@@ -426,7 +426,7 @@
   "parasites": "none",
   "age": " 2 months",
   "type": "Dog",
-  "img": "../../assets/images/labrador_1.jpg"
+  "img": "./shelter/assets/images/labrador_1.jpg"
 }, {
   "id": "pet_40",
   "name": "Murphy ",
@@ -437,7 +437,7 @@
   "parasites": "none",
   "age": "4 months",
   "type": "Dog",
-  "img": "../../assets/images/jack_5.jpg"
+  "img": "./shelter/assets/images/jack_5.jpg"
 }, {
   "id": "pet_41",
   "name": "Romeo ",
@@ -448,7 +448,7 @@
   "parasites": "fleas",
   "age": "3 years 4 months",
   "type": "Cat",
-  "img": "../../assets/images/maine_1.jpg"
+  "img": "./shelter/assets/images/maine_1.jpg"
 }, {
   "id": "pet_42",
   "name": "Bentley ",
@@ -459,7 +459,7 @@
   "parasites": "none",
   "age": "4 years 9 months",
   "type": "Cat",
-  "img": "../../assets/images/maine_2.jpg"
+  "img": "./shelter/assets/images/maine_2.jpg"
 }, {
   "id": "pet_43",
   "name": "Ziggy ",
@@ -470,7 +470,7 @@
   "parasites": "none",
   "age": "3 years 4 months",
   "type": "Dog",
-  "img": "../../assets/images/jack_1.jpg"
+  "img": "./shelter/assets/images/jack_1.jpg"
 }, {
   "id": "pet_44",
   "name": "Apollo ",
@@ -481,7 +481,7 @@
   "parasites": "lice",
   "age": "3 years 8 months",
   "type": "Cat",
-  "img": "../../assets/images/maine_5.jpg"
+  "img": "./shelter/assets/images/maine_5.jpg"
 }, {
   "id": "pet_45",
   "name": "Lady ",
@@ -492,7 +492,7 @@
   "parasites": "fleas",
   "age": "2 years 9 months",
   "type": "Cat",
-  "img": "../../assets/images/maine_3.jpg"
+  "img": "./shelter/assets/images/maine_3.jpg"
 }, {
   "id": "pet_46",
   "name": "Max ",
@@ -503,7 +503,7 @@
   "parasites": "none",
   "age": " 9 months",
   "type": "Dog",
-  "img": "../../assets/images/labrador_2.jpg"
+  "img": "./shelter/assets/images/labrador_2.jpg"
 }, {
   "id": "pet_47",
   "name": "Sammy ",
@@ -514,7 +514,7 @@
   "parasites": "none",
   "age": "3 months",
   "type": "Dog",
-  "img": "../../assets/images/jack_5.jpg"
+  "img": "./shelter/assets/images/jack_5.jpg"
 }, {
   "id": "pet_48",
   "name": "Lucy ",
@@ -525,7 +525,7 @@
   "parasites": "none",
   "age": "4 years 3 months",
   "type": "Cat",
-  "img": "../../assets/images/british_4.jpg"
+  "img": "./shelter/assets/images/british_4.jpg"
 }, {
   "id": "pet_49",
   "name": "Ruby ",
@@ -536,5 +536,5 @@
   "parasites": "fleas",
   "age": "2 years 3 months",
   "type": "Dog",
-  "img": "../../assets/images/jack_2.jpg"
+  "img": "./shelter/assets/images/jack_2.jpg"
 }]
