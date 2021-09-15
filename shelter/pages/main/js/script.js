@@ -146,12 +146,12 @@ fetch('./pets.json').then(res => res.json()).then(json => {
 
 
     popup.addEventListener('mouseleave',()=>{
-  
+      console.log('ушел на базу')
       popupCloseBtn.style.backgroundColor ='#FDDCC4'
     })
 
     popup.addEventListener('mouseenter',(e)=>{
-      
+      console.log(e.target)
       popupCloseBtn.style.backgroundColor =null
 
     })
@@ -323,9 +323,4 @@ fetch('./pets.json').then(res => res.json()).then(json => {
       })
     }
   })
-
-
-
-
-
 })
