@@ -51,19 +51,19 @@ pets.map(el => (['Labrador', 'Doberman', 'Jack Russell Terrier'].indexOf(el.bree
 pets.map(el => {
   switch (el.breed) {
     case 'Maine Coon':
-      el.img = `../../assets/images/maine_${Math.floor(Math.random() *6)+1}.jpg`
+      el.img = `./shelter/assets/images/maine_${Math.floor(Math.random() *6)+1}.jpg`
       break
     case 'British Shorthair':
-      el.img = `../../assets/images/british_${Math.floor(Math.random() *6)+1}.jpg`
+      el.img = `./shelter/assets/images/british_${Math.floor(Math.random() *6)+1}.jpg`
       break
     case 'Labrador':
-      el.img = `../../assets/images/labrador_${Math.floor(Math.random() *6)+1}.jpg`
+      el.img = `./shelter/assets/images/labrador_${Math.floor(Math.random() *6)+1}.jpg`
       break
     case 'Doberman':
-      el.img = `../../assets/images/doberman_${Math.floor(Math.random() *6)+1}.jpg`
+      el.img = `./shelter/assets/images/doberman_${Math.floor(Math.random() *6)+1}.jpg`
       break
     case 'Jack Russell Terrier':
-      el.img = `../../assets/images/jack_${Math.floor(Math.random() *6)+1}.jpg`
+      el.img = `./shelter/assets/images/jack_${Math.floor(Math.random() *6)+1}.jpg`
       break
   }
 })
