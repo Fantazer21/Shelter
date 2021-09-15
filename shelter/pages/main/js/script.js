@@ -83,7 +83,7 @@ window.addEventListener('resize', () => {
 })
 
 
-fetch('./js/pets.json').then(res => res.json()).then(json => {
+fetch('./pets.json').then(res => res.json()).then(json => {
   const petCardTemplate = document.querySelector('#petCard').content
   let pageSize
   let isEnable = true
