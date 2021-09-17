@@ -1,6 +1,6 @@
 ## Task 4. Shelter для [RS School](https://rs.school/)
 
-[Result](https://fantazer21.github.io/Shelter/) - 
+[Result](https://fantazer21.github.io/Shelter/) 
 
 
 Сверстать страницу согласно макету [Figma](https://www.figma.com/file/tKcmzkARtMUFQAR9VLdLkl/shelter-dom) 
